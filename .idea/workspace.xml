@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6acb7260-70ff-4d13-8a6a-e3b244a24d79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel.blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -170,7 +167,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606261727671</updated>
-      <workItem from="1606261728724" duration="3115000" />
+      <workItem from="1606261728724" duration="3436000" />
+      <workItem from="1606299561665" duration="9709000" />
+      <workItem from="1606335990583" duration="3337000" />
     </task>
     <task id="LOCAL-00001" summary="install laravel">
       <created>1606261851349</created>
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606262458012</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="how to create route, controller, blade.">
+      <created>1606265129465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606265129465</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,21 +209,26 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="install laravel" />
-    <option name="LAST_COMMIT_MESSAGE" value="install laravel" />
+    <MESSAGE value="how to create route, controller, blade." />
+    <option name="LAST_COMMIT_MESSAGE" value="how to create route, controller, blade." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1606262457926">
+    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1606265129347">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606262457926" />
+    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606265129347" />
     <state x="-1910" y="61" width="1182" height="281" key="Github.ShareDialog" timestamp="1606262335847">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-1910" y="61" width="1182" height="281" key="Github.ShareDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606262335847" />
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606262497343">
+    <state x="-1500" y="250" key="NewPhpFileDialog" timestamp="1606337925915">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606262497343" />
+    <state x="-1500" y="250" key="NewPhpFileDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606337925915" />
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606265133522">
+      <screen x="-5068" y="-365" width="5068" height="1415" />
+    </state>
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606265133522" />
     <state x="-1504" y="212" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606262264231">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
