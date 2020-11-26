@@ -168,7 +168,7 @@
       <workItem from="1606261728724" duration="3436000" />
       <workItem from="1606299561665" duration="9709000" />
       <workItem from="1606335990583" duration="3337000" />
-      <workItem from="1606392021366" duration="6781000" />
+      <workItem from="1606392021366" duration="8220000" />
     </task>
     <task id="LOCAL-00001" summary="install laravel">
       <created>1606261851349</created>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606392047647</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Часть 2. Практика создания сайта на Laravel&#10;Создание миграций">
+      <created>1606400698852</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606400698852</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,17 +224,18 @@
     <MESSAGE value="install laravel" />
     <MESSAGE value="how to create route, controller, blade." />
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Шаблон админки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Часть 2. Практика создания сайта на Laravel&#10;Шаблон админки" />
+    <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Создание миграций" />
+    <option name="LAST_COMMIT_MESSAGE" value="Часть 2. Практика создания сайта на Laravel&#10;Создание миграций" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-3315" y="-232" width="1751" height="1226" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606400208505">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-3315" y="-232" width="1751" height="1226" key="#com.intellij.execution.impl.EditConfigurationsDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606400208505" />
-    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1606392047464">
+    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1606400698760">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606392047464" />
+    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606400698760" />
     <state width="314" height="242" key="DatabaseViewActions_Filter" timestamp="1606399773487">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
@@ -244,14 +252,18 @@
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-1500" y="250" key="NewPhpFileDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606337925915" />
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606392055370">
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606400703169">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606392055370" />
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606400703169" />
     <state x="-1400" y="190" width="511" height="487" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606400181718">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-1400" y="190" width="511" height="487" key="com.intellij.database.actions.DdlActions$CreateObject$1/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606400181718" />
+    <state x="-1497" y="61" width="916" height="603" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1606400645972">
+      <screen x="-5068" y="-365" width="5068" height="1415" />
+    </state>
+    <state x="-1497" y="61" width="916" height="603" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606400645972" />
     <state x="-1504" y="212" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606262264231">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
