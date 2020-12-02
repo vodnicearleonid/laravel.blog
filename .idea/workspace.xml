@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6acb7260-70ff-4d13-8a6a-e3b244a24d79" name="Default Changelist" comment="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 1">
+    <list default="true" id="6acb7260-70ff-4d13-8a6a-e3b244a24d79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +184,10 @@
       <workItem from="1606677427140" duration="2334000" />
       <workItem from="1606688276565" duration="599000" />
       <workItem from="1606731937405" duration="872000" />
-      <workItem from="1606817327176" duration="5437000" />
+      <workItem from="1606817327176" duration="5484000" />
+      <workItem from="1606856255691" duration="599000" />
+      <workItem from="1606907424114" duration="608000" />
+      <workItem from="1606939720601" duration="3994000" />
     </task>
     <task id="LOCAL-00001" summary="install laravel">
       <created>1606261851349</created>
@@ -247,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606497494932</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 2">
+      <created>1606838686819</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606838686819</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,17 +274,18 @@
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Создание миграций" />
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Отношения моделей slug&#10; cviebrock/eloquent-sluggable" />
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 1" />
+    <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-3315" y="-232" width="1751" height="1226" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606400208505">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-3315" y="-232" width="1751" height="1226" key="#com.intellij.execution.impl.EditConfigurationsDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606400208505" />
-    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1606830049239">
+    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1606838686687">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606830049239" />
+    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606838686687" />
     <state width="314" height="242" key="DatabaseViewActions_Filter" timestamp="1606399773487">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
@@ -289,10 +302,10 @@
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-1500" y="250" key="NewPhpFileDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606481229704" />
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606497499629">
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606838691916">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606497499629" />
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606838691916" />
     <state x="-1400" y="190" width="511" height="487" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606400181718">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
