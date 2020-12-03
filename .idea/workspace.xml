@@ -3,8 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="6acb7260-70ff-4d13-8a6a-e3b244a24d79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/categories/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/categories/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/categories/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin/layouts/layout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/categories/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/categories/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/categories/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +157,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers/Admin" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -157,6 +167,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/resources/views/admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Admin" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -187,7 +206,8 @@
       <workItem from="1606817327176" duration="5484000" />
       <workItem from="1606856255691" duration="599000" />
       <workItem from="1606907424114" duration="608000" />
-      <workItem from="1606939720601" duration="3994000" />
+      <workItem from="1606939720601" duration="4648000" />
+      <workItem from="1606991342609" duration="4091000" />
     </task>
     <task id="LOCAL-00001" summary="install laravel">
       <created>1606261851349</created>
@@ -259,7 +279,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606838686819</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 2">
+      <created>1606944525087</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606944525087</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 2">
+      <created>1606995906950</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606995906950</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,10 +316,10 @@
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-3315" y="-232" width="1751" height="1226" key="#com.intellij.execution.impl.EditConfigurationsDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606400208505" />
-    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1606838686687">
+    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1606995906103">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606838686687" />
+    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606995906103" />
     <state width="314" height="242" key="DatabaseViewActions_Filter" timestamp="1606399773487">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
@@ -302,10 +336,10 @@
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-1500" y="250" key="NewPhpFileDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606481229704" />
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606838691916">
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606944529161">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606838691916" />
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606944529161" />
     <state x="-1400" y="190" width="511" height="487" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606400181718">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
