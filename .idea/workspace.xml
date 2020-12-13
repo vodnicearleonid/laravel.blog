@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6acb7260-70ff-4d13-8a6a-e3b244a24d79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel.blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel.blog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/CategoryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/admin/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/admin/css/admin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/admin/js/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/admin/js/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/admin/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/admin/js/demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,6 +201,27 @@
       <workItem from="1607092131918" duration="4156000" />
       <workItem from="1607103345550" duration="4162000" />
       <workItem from="1607169053348" duration="3542000" />
+      <workItem from="1607281625277" duration="706000" />
+      <workItem from="1607355131170" duration="599000" />
+      <workItem from="1607437189371" duration="1003000" />
+      <workItem from="1607444656924" duration="38000" />
+      <workItem from="1607444727024" duration="30000" />
+      <workItem from="1607444780022" duration="34000" />
+      <workItem from="1607444829797" duration="96000" />
+      <workItem from="1607445319632" duration="73000" />
+      <workItem from="1607445408169" duration="8000" />
+      <workItem from="1607445442980" duration="58000" />
+      <workItem from="1607448567104" duration="599000" />
+      <workItem from="1607459504394" duration="632000" />
+      <workItem from="1607511489340" duration="598000" />
+      <workItem from="1607528990975" duration="598000" />
+      <workItem from="1607594258034" duration="843000" />
+      <workItem from="1607618303761" duration="599000" />
+      <workItem from="1607678261831" duration="599000" />
+      <workItem from="1607715503389" duration="598000" />
+      <workItem from="1607765139446" duration="599000" />
+      <workItem from="1607776247707" duration="68000" />
+      <workItem from="1607878137889" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="install laravel">
       <created>1606261851349</created>
@@ -306,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607035005541</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 2">
+      <created>1607281726708</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607281726708</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,10 +348,10 @@
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-2000" y="44" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1607110658167" />
-    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1607035005374">
+    <state x="-1830" y="-261" key="CommitChangelistDialog2" timestamp="1607281726084">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1607035005374" />
+    <state x="-1830" y="-261" key="CommitChangelistDialog2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1607281726084" />
     <state width="314" height="242" key="DatabaseViewActions_Filter" timestamp="1606399773487">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
@@ -357,10 +372,10 @@
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
     <state x="-1500" y="250" key="NewPhpFileDialog/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606481229704" />
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1606944529161">
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2" timestamp="1607281732219">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
-    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1606944529161" />
+    <state x="-1782" y="11" key="Vcs.Push.Dialog.v2/-5068.-365.5068.1415/0.25.1680.1025@-5068.-365.5068.1415" timestamp="1607281732219" />
     <state x="-1400" y="190" width="511" height="487" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606400181718">
       <screen x="-5068" y="-365" width="5068" height="1415" />
     </state>
