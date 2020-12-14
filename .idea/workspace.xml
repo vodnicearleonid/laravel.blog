@@ -4,6 +4,12 @@
     <list default="true" id="6acb7260-70ff-4d13-8a6a-e3b244a24d79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/posts/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/posts/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +227,8 @@
       <workItem from="1607715503389" duration="598000" />
       <workItem from="1607765139446" duration="599000" />
       <workItem from="1607776247707" duration="68000" />
-      <workItem from="1607878137889" duration="3862000" />
+      <workItem from="1607878137889" duration="5631000" />
+      <workItem from="1607939930923" duration="2721000" />
     </task>
     <task id="LOCAL-00001" summary="install laravel">
       <created>1606261851349</created>
@@ -335,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607879839374</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Часть 2. Практика создания сайта на Laravel&#10;Управление постами. Часть 1">
+      <created>1607883909229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607883909229</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +366,7 @@
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 1" />
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Управление категориями. Часть 2" />
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;&#10;Управление постами. Часть 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Часть 2. Практика создания сайта на Laravel&#10;&#10;Управление постами. Часть 1" />
+    <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Управление постами. Часть 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Часть 2. Практика создания сайта на Laravel&#10;Управление постами. Часть 1" />
   </component>
 </project>

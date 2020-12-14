@@ -8,10 +8,12 @@ use Cviebrock\EloquentSluggable\Sluggable;
 
 class Tag extends Model
 {
-    use HasFactory;
     use Sluggable;
 
-    public function posts(){
+    protected $fillable = ['title'];
+
+    public function posts()
+    {
         return $this->belongsToMany(Post::class);
     }
 
@@ -30,3 +32,4 @@ class Tag extends Model
     }
 
 }
+

@@ -9,14 +9,17 @@ use Cviebrock\EloquentSluggable\Sluggable;
 
 class Post extends Model
 {
-    use HasFactory;
     use Sluggable;
 
-    public function tags(){
-        return $this->belongsToMany(Tag::class);
+    protected $fillable = ['title', 'description', 'content', 'category_id', 'thumbnail'];
+
+    public function tags()
+    {
+        return $this->belongsToMany(Tag::class)->withTimestamps();
     }
 
-    public function category(){
+    public function category()
+    {
         return $this->belongsTo(Category::class);
     }
 
