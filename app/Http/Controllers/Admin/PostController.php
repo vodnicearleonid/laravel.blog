@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers\Admin;
 
-use App\Models\Category;
+use App\Category;
 use App\Http\Controllers\Controller;
-use App\Models\Post;
-use App\Models\Tag;
+use App\Post;
+use App\Tag;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
 
@@ -18,7 +18,7 @@ class PostController extends Controller
      */
     public function index()
     {
-        $posts = Post::paginate(20);
+        $posts = Post::with('category', 'tags')->paginate(20);
         return view('admin.posts.index', compact('posts'));
     }
 
