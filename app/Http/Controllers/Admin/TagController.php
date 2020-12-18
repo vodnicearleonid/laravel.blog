@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
-use App\Tag;
+use App\Models\Tag;
 use Illuminate\Http\Request;
 
 class TagController extends Controller
@@ -85,3 +85,4 @@ class TagController extends Controller
         return redirect()->route('tags.index')->with('success', 'Тег удален');
     }
 }
+

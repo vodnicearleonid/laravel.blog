@@ -29,5 +29,5 @@ Route::group(['prefix' => 'admin'], function () {
     Route::resource('/posts', PostController::class);
 });
 
-Route::get('/register', UserController::class)->name('register.create');
-Route::post('/register', UserController::class)->name('register.store');
+Route::get('/register', [UserController::class, 'create'])->name('register.create');
+Route::post('/register', [UserController::class, 'store'])->name('register.store');
