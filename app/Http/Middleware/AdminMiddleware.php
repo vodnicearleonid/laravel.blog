@@ -20,6 +20,7 @@ class AdminMiddleware
         if (Auth::check() and Auth::user()->is_admin) {
             return $next($request);
         }
+
         abort(404);
     }
 }
