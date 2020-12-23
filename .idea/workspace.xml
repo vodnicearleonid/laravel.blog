@@ -1,240 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6acb7260-70ff-4d13-8a6a-e3b244a24d79" name="Default Changelist" comment="Часть 2. Практика создания сайта на Laravel&#10;Авторизация">
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/.php_cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/ckfinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/config.template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/DoxygenLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/Index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/builddoc.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/ckfinder-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/ckfinder.doxyfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/doc-m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/ApplicationStructure.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/Commands.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/Configuration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/Debugging.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/HowTo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/Integration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/LaravelPackage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/Plugins.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/QuickStart.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/SymfonyBundle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/SystemRequirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/Upgrading.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/images/ckeditor_image_dialog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/images/ckfinder_overview.draw.io.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/images/ckfinder_overview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/images/ckfinder_workflow.draw.io.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/images/dropbox_token.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/images/missing_json_mimetype.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/manual/images/request_workflow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/dev/doc/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/phpunit.xml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Acl/Acl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Acl/AclInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Acl/MaskBuilder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Acl/Permission.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Acl/User/RoleContextInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Acl/User/SessionRoleContext.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/ArgumentResolver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Authentication/AuthenticationInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Authentication/CallableAuthentication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/AwsS3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/Azure.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/Cache/Storage/Memory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/Dropbox.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/EmulateRenameDirectoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/Ftp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/Local.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Backend.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/BackendFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Cache/Adapter/AdapterInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Cache/Adapter/BackendAdapter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Cache/CacheManager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/CommandAbstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/CopyFiles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/CreateFolder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/DeleteFiles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/DeleteFolder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/DownloadFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/FileUpload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/GetFileUrl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/GetFiles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/GetFolders.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/GetResizedImages.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/ImageEdit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/ImageInfo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/ImagePreview.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/ImageResize.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/Init.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/MoveFiles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/Operation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/Proxy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/QuickUpload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/RenameFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/RenameFolder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/SaveImage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Command/Thumbnail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CommandResolver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/ContainerAwareInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Error.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/AfterCommandEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/BeforeCommandEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/CKFinderEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/CopyFileEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/CreateFolderEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/DeleteFileEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/DeleteFolderEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/DownloadFileEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/EditFileEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/FileUploadEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/MoveFileEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/ProxyDownloadEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/RenameFileEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/RenameFolderEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Event/ResizeImageEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/AccessDeniedException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/AlreadyExistsException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/CKFinderException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/FileNotFoundException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/FolderNotFoundException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidCommandException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidConfigException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidCsrfTokenException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidExtensionException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidNameException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidPluginException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidRequestException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidResourceTypeException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/InvalidUploadException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/MethodNotAllowedException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Exception/UnauthorizedException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/ExceptionHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/CopiedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/DeletedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/DownloadedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/EditedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/EditedImage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/ExistingFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/File.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/MovedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/RenamedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/File/UploadedFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/Folder/Folder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/Folder/WorkingFolder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Filesystem/Path.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Image.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Operation/OperationManager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Plugin/PluginInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Request/Transformer/JsonTransformer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Request/Transformer/TransformerInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/ResizedImage/ResizedImage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/ResizedImage/ResizedImageAbstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/ResizedImage/ResizedImageRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/ResourceType/ResourceType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/ResourceType/ResourceTypeFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Response/JsonResponse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Security/Csrf/DoubleSubmitCookieTokenValidator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Security/Csrf/TokenValidatorInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Thumbnail/Thumbnail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Thumbnail/ThumbnailRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Translator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Utils.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/bg.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/ca.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/cs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/cy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/da.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/de.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/el.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/en.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/eo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/es-mx.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/es.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/et.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/eu.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/fa.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/fi.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/fr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/gu.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/he.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/hi.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/hr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/hu.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/id.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/it.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/ja.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/ko.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/ku.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/lt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/lv.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/nb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/nl.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/nn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/pl.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/pt-br.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/ro.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/ru.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/sk.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/sl.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/sr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/sv.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/tr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/vi.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/zh-cn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/locales/zh-tw.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Acl/AclTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Acl/PermissionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Acl/User/SessionRoleContexTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Backend/BackendFactoryTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Backend/BackendTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Cache/CacheTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/CommandResolverTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Config/ConfigTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Filesystem/File/FileTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Filesystem/PathTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Fixtures/ResponseNode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Fixtures/config_test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Fixtures/init_test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Fixtures/init_test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Fixtures/plugins/Test/Test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Mocks/Acl/User/MockRoleContext.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Mocks/Command/Test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Operation/OperationManagerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Plugin/DummyPlugin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Plugin/PluginTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/ResourceType/ResourceTypeTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/ScaledImage/ScaledImageTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/Thumbnail/ThumbnailTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/TranslatorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/CKSource/CKFinder/Tests/UtilsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/cksource/ckfinder/tests/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/.php_cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/LICENCE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/phpunit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/phpunit.xml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/src/Adapter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/src/AzureAdapter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/admin/ckfinder/core/connector/php/vendor/league/flysystem-azure/tests/AzureTests.php" afterDir="false" />
+    <list default="true" id="6acb7260-70ff-4d13-8a6a-e3b244a24d79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -467,7 +235,8 @@
       <workItem from="1608471067477" duration="7957000" />
       <workItem from="1608543756191" duration="6505000" />
       <workItem from="1608648578952" duration="599000" />
-      <workItem from="1608664998373" duration="4787000" />
+      <workItem from="1608664998373" duration="5475000" />
+      <workItem from="1608751220854" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="install laravel">
       <created>1606261851349</created>
@@ -651,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608561768347</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Часть 2. Практика создания сайта на Laravel&#10;Визуальный редактор&#10;Integration with CKEditor 5, ckfinder">
+      <created>1608673920591</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1608673920591</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,6 +451,7 @@
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Регистрация" />
     <MESSAGE value="Регистрация" />
     <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Авторизация" />
-    <option name="LAST_COMMIT_MESSAGE" value="Часть 2. Практика создания сайта на Laravel&#10;Авторизация" />
+    <MESSAGE value="Часть 2. Практика создания сайта на Laravel&#10;Визуальный редактор&#10;Integration with CKEditor 5, ckfinder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Часть 2. Практика создания сайта на Laravel&#10;Визуальный редактор&#10;Integration with CKEditor 5, ckfinder" />
   </component>
 </project>
