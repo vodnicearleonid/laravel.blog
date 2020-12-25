@@ -1,8 +1,10 @@
 <?php
 
+
 use App\Http\Controllers\Admin\CategoryController;
 use App\Http\Controllers\Admin\MainController;
-use App\Http\Controllers\Admin\PostController;
+use App\Http\Controllers\Admin\PostController as PostAdminController;
+use App\Http\Controllers\PostController;
 use App\Http\Controllers\Admin\TagController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
@@ -18,15 +20,14 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-})->name('home');
+Route::get('/', [PostController::class, 'index'])->name('home');
+Route::get('/article', [PostController::class, 'show'])->name('posts.single');
 
-Route::group(['prefix' => 'admin', 'namespace' => 'Admin', 'middleware' => 'admin'], function () {
+Route::group(['prefix' => 'admin', 'middleware' => 'admin'], function () {
     Route::get('/', [MainController::class, 'index'])->name('admin.index');
     Route::resource('/categories', CategoryController::class);
     Route::resource('/tags', TagController::class);
-    Route::resource('/posts', PostController::class);
+    Route::resource('/posts', PostAdminController::class);
 });
 
 Route::group(['middleware' => 'guest'], function () {
